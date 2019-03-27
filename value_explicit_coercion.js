@@ -1,0 +1,6 @@
+var a = "42";
+
+var b = Number(a);
+
+console.log(a, `${typeof(a)}`);
+console.log(b, `${typeof(b)}`);
