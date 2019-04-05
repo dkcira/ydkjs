@@ -39,4 +39,5 @@ for (key in student){
 }
 
 console.log('student keys:',Object.keys(student));
-console.log('student values:',Object.values(student));
+console.log('student values	:',Object.values(student));
+console.log('student entries :', Object.entries(student));
